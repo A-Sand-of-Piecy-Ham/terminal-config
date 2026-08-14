@@ -1,6 +1,6 @@
 [user]
 	name = Max Wanger
-	email = mwanger@ptc.com
+	email = maxwamger@gmail.com
 	signingkey = ~/.ssh/id_ed25519.pub
 [gpg]
 	format = ssh
